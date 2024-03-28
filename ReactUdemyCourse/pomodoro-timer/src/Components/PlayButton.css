@@ -1,0 +1,9 @@
+button{
+    background-color: transparent;
+    color: #f8e0ff;
+    border: 0;
+    width: 50px;
+    height: 50px;
+    margin: 15px;
+    cursor: pointer;
+}

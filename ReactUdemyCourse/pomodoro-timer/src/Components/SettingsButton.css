@@ -1,0 +1,24 @@
+#settingsbutton.div{
+    background-color: transparent;
+    color: #f8e0ff;
+    border: 0;
+    width: 50px;
+    height: 50px;
+    margin: 15px;
+}
+
+.with-text{
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: #450042;
+    width: auto;
+    cursor: pointer;
+    font-size: 1rem;
+    line-height: 30px;
+}
+
+.with-text svg{
+    float: left;
+    width: 30px;
+    margin-right: 10px;
+}
